@@ -3,9 +3,6 @@
 ##  Project Overview
 Sugar_Child is a machine learning–based diabetes prediction system that determines whether a person is diabetic based on key health parameters such as glucose level, BMI, age, and insulin level.
 
-The project uses a **Random Forest Classifier** and was developed as part of a **hackathon**, with a focus on achieving high prediction accuracy and deploying a reliable ML model.
-
----
 
 ##  Features
 - Predicts diabetic vs non-diabetic status  
